@@ -1,0 +1,23 @@
+[33mcommit 8a2af373f4905ae8a06d27250f0aab31df7750f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Iryna Lazarchyk <iryna_lazarchyk@epam.com>
+Date:   Sun Feb 26 19:53:07 2023 +0100
+
+    add more lines to song
+
+[33mcommit 438b05e8bc2dd763e637c203c4de693e01173b7a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Iryna <69259990+Lazarchyk@users.noreply.github.com>
+Date:   Sun Feb 26 18:46:40 2023 +0100
+
+    Add 2 line into song.txt
+
+[33mcommit 810b46bfc5dc36e21848c5eb08ce57d6870d06f7[m
+Author: Iryna Lazarchyk <iryna_lazarchyk@epam.com>
+Date:   Sun Feb 26 18:39:05 2023 +0100
+
+    add first line  in the song
+
+[33mcommit 25a7fe8df410c059210f90fa193d096c4c2b0223[m
+Author: Iryna <69259990+Lazarchyk@users.noreply.github.com>
+Date:   Sun Feb 26 18:22:46 2023 +0100
+
+    Initial commit
