@@ -5,6 +5,7 @@ regression
 past
 tree
 
+<<<<<<< HEAD
 next
 
 past
@@ -14,3 +15,6 @@ new song with new words
 test why
 
 new version
+=======
+next
+>>>>>>> parent of 7ea0f46 (new one + text)
